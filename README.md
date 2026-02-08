@@ -20,4 +20,5 @@ AC Input → Bridge Rectifier → Filter Capacitor → Voltage Regulator → DC 
 
 ## Tools
 - KiCad (schematic and PCB layout)
-  
+  ## Schematic
+![Schematic](https://github.com/Sanjaybk66/AC-to-DC-Regulated-Power-Supply-PCB-Design/blob/main/Schematic%20Picture.png)
