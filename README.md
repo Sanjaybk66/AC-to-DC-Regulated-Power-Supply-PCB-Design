@@ -25,7 +25,7 @@ AC Input → Bridge Rectifier → Filter Capacitor → Voltage Regulator → DC 
 [Schematic pdf](https://github.com/Sanjaybk66/AC-to-DC-Regulated-Power-Supply-PCB-Design/blob/main/VOLTAGE%20REGULATOR_Schematic_Pdf)
 
 ##PCB Layout
-![PCB Layout]()
+![PCB Layout](https://github.com/Sanjaybk66/AC-to-DC-Regulated-Power-Supply-PCB-Design/blob/main/PCB%20Layout.JPG)
 
 ## PCB 3D View
 ![PCB 3D View](https://github.com/Sanjaybk66/AC-to-DC-Regulated-Power-Supply-PCB-Design/blob/main/VOLTAGE%20REGULATOR.jpg)
