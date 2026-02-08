@@ -15,10 +15,11 @@ AC Input → Bridge Rectifier → Filter Capacitor → Voltage Regulator → DC 
 
 ## Applications
 - Embedded systems
-- ESP32 / ESP8266 projects
+- ESP32 projects
 - Electronics laboratory experiments
 
 ## Tools
 - KiCad (schematic and PCB layout)
 ## Schematic
 [Schematic pdf](https://github.com/Sanjaybk66/AC-to-DC-Regulated-Power-Supply-PCB-Design/blob/main/VOLTAGE%20REGULATOR_Schematic_Pdf)
+## 
